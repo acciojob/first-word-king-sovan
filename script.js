@@ -8,7 +8,7 @@ function firstWord(s) {
 		return s;
 	}
 
-	return s.subString(0, firstSpace);
+	return s.substring(0, firstSpace);
 }
 
 // Do not change the code below
